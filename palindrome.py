@@ -1,3 +1,5 @@
+# determine if a given value is a palindrome
+
 x = "level"
 
 def solution(inputString):
