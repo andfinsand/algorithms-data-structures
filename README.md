@@ -1,1 +1,1 @@
-Various algorithms written in Python.
+Various algorithms and data structures written in Python.
